@@ -6,7 +6,7 @@
 .main{
     width:100% ;
 background-position: center;
-background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(/images/images.jfif) ;
+background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(images.jfif) ;
 background-size: cover;
 height: 109vh
 ;}
